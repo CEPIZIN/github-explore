@@ -1,1 +1,1 @@
-# Git hub explorer ![Ícone do GitHub](https://github.com/favicon.ico)
+# Github explorer ![Ícone do GitHub](https://github.com/favicon.ico)
